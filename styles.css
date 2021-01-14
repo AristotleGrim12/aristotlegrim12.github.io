@@ -6,6 +6,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
+  background-color: rgb(248, 240, 234);
 }
 
 #output {
@@ -15,5 +16,73 @@ html, body {
 
 #nottubym {
   text-align: center;
+  margin-top: 20px;
 }
 
+#nottubym button {
+  width: 190px;
+  height: 35px;
+  font-family: Oswald, serif;
+  color: bisque;
+  background-color: #52300f;
+  outline-color: #52300f;
+}
+
+header {
+  font-family: "Megrim", cursive;
+  text-align: center;
+  color: bisque;
+  background-image: url("https://i.pinimg.com/originals/e8/07/57/e807579edb93300913645941f251c97d.jpg");
+  text-shadow: 5px 6px 4px rgb(216 151 59 / 50%);
+  height: 6.5cm;
+}
+
+header h1 {
+  line-height: 3.6cm;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1.7cm;
+  font-family: "Megrim", cursive;
+  border: 5px solid rgb(216, 188, 154);
+  padding-left: 29px;
+  padding-right: 29px;
+}
+
+
+#theBigBanana {
+  font-family: 'Finger Paint', cursive;
+  text-align: center;
+  color:#a8825d;
+}
+
+p {
+  font-family: 'Architects Daughter', Courier;
+  text-align: center;
+  color: #694b2d;
+  font-size: large; 
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#harharhar {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#fierrochase {
+  margin-top: 10px;
+  font-size: small;
+}
+
+#theBigBanana {
+  margin-left: 5cm;
+  margin-right: 5cm;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+}
